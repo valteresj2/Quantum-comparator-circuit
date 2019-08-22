@@ -1,5 +1,6 @@
 # Quantum-comparator-circuit
-This project is a quantum comparator circuit using the SDK of IBM what is qiskit in the version 0.6.1, the version of python is the 3.6.5. 
+This project is a quantum comparator circuit using the SDK of IBM what is qiskit in the version 0.6.1, the version of python is the 3.6.5.
+Follow the link of document about this circuit https://www.linkedin.com/pulse/introduction-quantum-computing-building-bit-array-circuit-eduardo/.
 
 # Limitation
 
